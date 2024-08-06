@@ -26,7 +26,7 @@ def ExtractLatiandLongitude():
 
             for i in JSON_Object:
                 if str.lower(i['area'])==str.lower(Area):
-                    print(f"Pincode Belongs to State {i['state']}")
+                    print(f"Pincode {Pincode} Belongs to State {i['state']}")
                     print(f"Latitude and Logitude for {Area} are {i['lat']} and {i['lng']}")
 
 if __name__=="__main__":
