@@ -10,4 +10,7 @@ go on right where curl is written chnage that to python and next check box to ht
 - 100 requests per hour is API Rate Limit 
 - Download Modules pandas , openpyxl , 
 - Change the Excel file in zip because this code contains only Sample Excel replace with actual one and change its path in file_path
-- 
+
+  -output :
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/300872e2-d638-43f7-bcc3-8ada058766d3">
+
